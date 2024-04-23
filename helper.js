@@ -9,3 +9,5 @@
 // Create a new repo on github.com
 // git init --> initializes git
 // to stage changes --> git add ( __FILE__NAME__ or . (all files) )
+// git commit -m "__COMMIT_MESSAGE__" --> staged changes are committed
+// if we want to check the log ---> git log
