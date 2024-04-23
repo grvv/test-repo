@@ -15,6 +15,7 @@
 // git remote add origin ( main git repo ) __URL_OF_THE_REPO__
 // git push -u origin main
 // git push ( pushing our changes ) -u ( use it whenever we are pushing a new branch ) origin main (branch name)
+// To clone the repo on another machine use cmds - git clone __GIT_REPO_URL__
 
 // Setting up the config
 // git config user.name "Gaurav Sharma"
