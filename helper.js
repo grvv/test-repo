@@ -16,6 +16,10 @@
 // git push -u origin main
 // git push ( pushing our changes ) -u ( use it whenever we are pushing a new branch ) origin main (branch name)
 // To clone the repo on another machine use cmds - git clone __GIT_REPO_URL__
+// git checkout __COMMIT_ID__/__BRANCH_NAME__ --> go to particular branch or commit
+// git checkout -b __BRANCH_NAME__ --> create a new branch
+// git branch --> list downs local branches
+// git branch -a --> list down all the branches ( remote and local )
 
 // Setting up the config
 // git config user.name "Gaurav Sharma"
